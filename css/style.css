@@ -1,0 +1,25 @@
+body {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+  background-color: #dbefe0;
+  margin: 0;
+  padding: 0;
+}
+
+h1,h2,h3,h4{
+    color: #143b35;
+    margin-left: 1.5%; 
+    margin-right: 1.5%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+p {
+    color: #2a604c;
+    margin-left: 1.5%; 
+    margin-right: 1.5%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
